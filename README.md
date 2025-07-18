@@ -1,6 +1,6 @@
 <div align=center>
 
-# [adigxd 👈](https://github.com/adigxd)
+# [adigxd 👈](https://adigxd.github.io)
 
 ### Current Projects
 
