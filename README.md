@@ -2,11 +2,11 @@
 
 # [adigxd 👈](https://adigxd.github.io)
 
-### Spotlight
+### Spotlight 🔦
 
 [![Voxelbulb](https://img.shields.io/badge/Voxelbulb-C0E000?style=for-the-badge&logo=opengl)](https://github.com/adigxd/Voxelbulb)
 
-### Current Projects
+### Current Projects ⚙️
 
 [![NextBI](https://img.shields.io/badge/NextBI-202020?style=for-the-badge&logo=react)](https://github.com/adigxd/NextBI)
 [![Arena](https://img.shields.io/badge/Arena-4080C0?style=for-the-badge&logo=unity)](https://github.com/adigxd/Arena)
