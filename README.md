@@ -8,8 +8,8 @@
 
 ### Current Projects ⚙️
 
-[![NextBI](https://img.shields.io/badge/NextBI-202020?style=for-the-badge&logo=react)](https://github.com/adigxd/NextBI)
 [![Arena](https://img.shields.io/badge/Arena-4080C0?style=for-the-badge&logo=unity)](https://github.com/adigxd/Arena)
+[![NextBI](https://img.shields.io/badge/NextBI-202020?style=for-the-badge&logo=react)](https://github.com/adigxd/NextBI)
 [![Career Tree](https://img.shields.io/badge/Career_Tree-40A0E0?style=for-the-badge&logo=openai)](https://github.com/adigxd/CareerTree-py)
 
 <br/><br/>
