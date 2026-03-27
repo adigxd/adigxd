@@ -12,4 +12,4 @@
 [![Arena](https://img.shields.io/badge/Arena-A060C0?style=for-the-badge&logo=unity)](https://github.com/adigxd/Arena)
 
 <br/><br/>
-*[My older repositories](https://github.com/O-79)*
+*[Old GitHub](https://github.com/O-79)*
