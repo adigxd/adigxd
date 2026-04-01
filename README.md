@@ -92,7 +92,11 @@ Testing:
 ### 🗺️ Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adigxd&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adigxd&style=flat-square&color=green" />
 </p>
 
 ---
@@ -111,7 +115,3 @@ Adi — AI / Data Engineer
 Reliable pipelines, analytics, automation
 
 > exit
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adigxd&style=flat-square&color=green" />
-</p>
