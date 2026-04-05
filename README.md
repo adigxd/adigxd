@@ -8,6 +8,8 @@
 
 ### Current Projects ⚙️
 
+<a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/util-d-404040?style=for-the-badge"/></a><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-C0A020?style=for-the-badge&logo=git"/></a>
+
 <a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/util-d-404040?style=for-the-badge" align="middle"/></a> debug
 
 [![a](https://img.shields.io/badge/util-d-404040?style=for-the-badge)](https://github.com/adigxd/d)<br/>debug
