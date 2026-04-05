@@ -8,7 +8,7 @@
 
 <a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/web-004080?style=for-the-badge"/></a><a href="https://github.com/adigxd/zmap"><img src="https://img.shields.io/badge/zmap-005090?style=for-the-badge&logo=react"/></a><a href="https://github.com/adigxd/adigxd.github.io"><img src="https://img.shields.io/badge/adigxd-0060A0?style=for-the-badge&logo=react"/></a><a href="https://github.com/adigxd/NextBI"><img src="https://img.shields.io/badge/nextbi-0070B0?style=for-the-badge&logo=react"/></a>
 
-<a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/util-C0A010?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-D0B020?style=for-the-badge&logo=openbugbounty"/></a><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-E0C030?style=for-the-badge&logo=git"/></a><a href="https://github.com/adigxd/s"><img src="https://img.shields.io/badge/-g-F0D040?style=for-the-badge&logo=git"/></a>
+<a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/util-C0A010?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-D0B020?style=for-the-badge&logo=openbugbounty"/></a><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-E0C030?style=for-the-badge&logo=git"/></a><a href="https://github.com/adigxd/s"><img src="https://img.shields.io/badge/-s-F0D040?style=for-the-badge&logo=1.1.1.1"/></a>
 
 </td></tr></table>
 
