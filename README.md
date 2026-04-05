@@ -8,7 +8,7 @@
 
 ### Current Projects ⚙️
 
-[![d](https://img.shields.io/badge/d-A08080?style=for-the-badge&logo=iterm2)](https://github.com/adigxd/d)
+[![d](https://img.shields.io/badge/d-A08080?style=for-the-badge&logo=openbugbounty)](https://github.com/adigxd/d)
 [![g](https://img.shields.io/badge/g-C0A020?style=for-the-badge&logo=git)](https://github.com/adigxd/g)
 [![zmap](https://img.shields.io/badge/zmap-002060?style=for-the-badge&logo=react)](https://github.com/adigxd/zmap)
 
