@@ -2,7 +2,7 @@
 
 # [adigxd 👈](https://adigxd.github.io)
 
-<a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/graphics-004000?style=for-the-badge"/></a><a href="https://github.com/adigxd/r"><img src="https://img.shields.io/badge/r-006000?style=for-the-badge&logo=opengl"/></a><a href="https://github.com/adigxd/Voxelbulb"><img src="https://img.shields.io/badge/voxelbulb-008000?style=for-the-badge&logo=opengl"/></a>
+<a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/graphics-001000?style=for-the-badge"/></a><a href="https://github.com/adigxd/r"><img src="https://img.shields.io/badge/r-002000?style=for-the-badge&logo=opengl"/></a><a href="https://github.com/adigxd/Voxelbulb"><img src="https://img.shields.io/badge/voxelbulb-003000?style=for-the-badge&logo=opengl"/></a>
 
 <a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/web-002060?style=for-the-badge"/></a><a href="https://github.com/adigxd/zmap"><img src="https://img.shields.io/badge/zmap-004080?style=for-the-badge&logo=react"/></a>
 
