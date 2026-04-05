@@ -1,4 +1,4 @@
-<!-- <div align=center> -->
+<div align=center>
 
 # [adigxd 👈](https://adigxd.github.io)
 
