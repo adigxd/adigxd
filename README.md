@@ -8,6 +8,8 @@
 
 ### Current Projects ⚙️
 
+[![a](https://img.shields.io/badge/util-d-404040?style=for-the-badge)](https://github.com/adigxd/d)<br/>debug
+
 [![a](https://img.shields.io/badge/util--debug-d-404040?style=for-the-badge)](https://github.com/adigxd/d)
 
 [![a](https://img.shields.io/badge/util-d-404040?style=for-the-badge)](https://github.com/adigxd/d) debug
