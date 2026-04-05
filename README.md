@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <div align=center>
 
 # [adigxd 👈](https://adigxd.github.io)
