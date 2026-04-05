@@ -4,7 +4,7 @@
 
 ### Spotlight 🔦
 
-[![r](https://img.shields.io/badge/r-000000?style=for-the-badge&logo=opengl)](https://github.com/adigxd/r)
+[![r](https://img.shields.io/badge/r-000800?style=for-the-badge&logo=opengl)](https://github.com/adigxd/r)
 
 ### Current Projects ⚙️
 
