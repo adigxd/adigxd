@@ -9,7 +9,6 @@
 ### Current Projects ⚙️
 
 [![zmap](https://img.shields.io/badge/zmap-002080?style=for-the-badge&logo=react)](https://github.com/adigxd/zmap)
-[![Arena](https://img.shields.io/badge/Arena-A060C0?style=for-the-badge&logo=unity)](https://github.com/adigxd/Arena)
 
 <br/><br/>
 *[Old GitHub](https://github.com/O-79)*
