@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/web%20%20%20·-004080?style=for-the-badge"/><a href="https://github.com/adigxd/zmap"><img src="https://img.shields.io/badge/zmap-005090?style=for-the-badge"/></a><a href="https://github.com/adigxd/adigxd.github.io"><img src="https://img.shields.io/badge/adigxd-0060A0?style=for-the-badge"/></a><a href="https://github.com/adigxd/NextBI"><img src="https://img.shields.io/badge/nextbi-0070B0?style=for-the-badge"/></a>
 
-<img src="https://img.shields.io/badge/gen%20ai%20%20%20·-40A0C0?style=for-the-badge"/></a><a href="https://github.com/adigxd/s"><img src="https://img.shields.io/badge/-s-50B0D0?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/gen%20ai%20%20%20·-80B0C0?style=for-the-badge"/></a><a href="https://github.com/adigxd/s"><img src="https://img.shields.io/badge/-s-90C0D0?style=for-the-badge"/></a>
 
 <img src="https://img.shields.io/badge/util%20%20%20·-C0A010?style=for-the-badge"/><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-D0B020?style=for-the-badge"/></a><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-E0C030?style=for-the-badge"/></a>
 
