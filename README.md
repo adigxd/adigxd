@@ -2,7 +2,13 @@
 
 *Spotlight*
 ---
-a
+
+<a href="https://github.com/adigxd/r">
+  <img
+    src="https://img.shields.io/badge/r-002000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDFMMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"
+    height="56"
+  />
+</a>
 
 <br/><br/>
 
@@ -19,7 +25,7 @@ a
 
 <br/><br/>
 
-Misc.
+*Misc.*
 ---
 
 *[Old GitHub](https://github.com/O-79)*
