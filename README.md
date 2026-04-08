@@ -3,46 +3,9 @@
 *Spotlight*
 ---
 
+*placeholder*
 <a href="https://github.com/adigxd/r">
-  <svg width="260" height="64" viewBox="0 0 260 64" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <image
-      href="https://img.shields.io/badge/r-002000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDFMMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"
-      x="8"
-      y="8"
-      height="48"
-      filter="url(#glow)"
-    />
-  </svg>
-</a>
-
-<a href="https://github.com/adigxd/r">
-  <svg width="260" height="64" viewBox="0 0 260 64" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <image
-      href="https://img.shields.io/badge/r-002000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDFMMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"
-      x="8"
-      y="8"
-      height="48"
-      filter="url(#glow)"
-    />
-  </svg>
+  <img src="https://raw.githubusercontent.com/adigxd/r/main/assets/spotlight-banner.png" width="520"/>
 </a>
 
 <br/>
