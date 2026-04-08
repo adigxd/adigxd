@@ -1,6 +1,14 @@
 <div align=center>
 
-# [adigxd 👈](https://github.com/adigxd)
+*Spotlight*
+---
+a
+
+<br/><br/>
+
+*Projects*
+
+---
 
 <img src="https://img.shields.io/badge/3d%20graphics%20᛫-001000?style=for-the-badge"/><a href="https://github.com/adigxd/r"><img src="https://img.shields.io/badge/r-002000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDFMMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"/></a><a href="https://github.com/adigxd/Voxelbulb"><img src="https://img.shields.io/badge/voxelbulb-003000?style=for-the-badge"/></a><a href="https://github.com/adigxd/Arena"><img src="https://img.shields.io/badge/arena-004000?style=for-the-badge"/></a>
 
@@ -11,6 +19,11 @@
 <img src="https://img.shields.io/badge/util%20᛫-C0B010?style=for-the-badge"/><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-D0C020?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-E0D030?style=for-the-badge"/></a>
 
 <br/><br/>
+
+*Misc.*
+
+---
+
 *[Old GitHub](https://github.com/O-79)*
 
 </div>
