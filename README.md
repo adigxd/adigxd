@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/gen%20ai%20᛫-80B0C0?style=for-the-badge"/></a><a href="https://github.com/adigxd/s"><img src="https://img.shields.io/badge/-s-90C0D0?style=for-the-badge"/></a>
 
-<img src="https://img.shields.io/badge/util%20᛫-C0A010?style=for-the-badge"/><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-D0B020?style=for-the-badge"/></a><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-E0C030?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/util%20᛫-C0A010?style=for-the-badge"/><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-D0B020?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-E0C030?style=for-the-badge"/></a>
 
 <br/><br/>
 *[Old GitHub](https://github.com/O-79)*
