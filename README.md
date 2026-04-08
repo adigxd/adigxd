@@ -6,7 +6,7 @@
 *placeholder*
 
 <a href="https://github.com/adigxd/r">
-  <img src="https://raw.githubusercontent.com/adigxd/r/main/assets/spotlight-banner.png" width="520"/>
+  <img src="https://raw.githubusercontent.com/adigxd/adigxd/main/DIR-Resources/IMG-Spotlight-20260408.png" width="520"/>
 </a>
 
 <br/>
