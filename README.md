@@ -1,6 +1,6 @@
 <div align=center>
 
-# [adigxd 👈](https://adigxd.github.io)
+# [adigxd 👈](https://github.com/adigxd)
 
 <img src="https://img.shields.io/badge/graphics%20᛫-001000?style=for-the-badge"/><a href="https://github.com/adigxd/r"><img src="https://img.shields.io/badge/r-002000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDFMMTIgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+"/></a><a href="https://github.com/adigxd/Voxelbulb"><img src="https://img.shields.io/badge/voxelbulb-003000?style=for-the-badge"/></a>
 
