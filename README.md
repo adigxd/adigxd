@@ -3,10 +3,6 @@
 *Spotlight*
 ---
 
-<!-- darkened background image for banner and white text saying r with a white star to the left of it  -->
-
-*placeholder*
-
 <a href="https://github.com/adigxd/r">
   <img src="https://raw.githubusercontent.com/adigxd/adigxd/main/DIR-Resources/IMG-Spotlight-20260408.png" width="520"/>
 </a>
