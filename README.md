@@ -20,8 +20,6 @@
 
 <img src="https://img.shields.io/badge/util%20᛫-C0B010?style=for-the-badge"/><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-D0C020?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-E0D030?style=for-the-badge"/></a>
 
-<br/>
-
 *Misc.*
 ---
 
