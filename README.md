@@ -1,8 +1,5 @@
 <div align=center>
 
-![](https://komarev.com/ghpvc/?username=adigxd)
-![](https://view-counter.tobyhagan.com/?user=adigxd&icon=true)
-
 *Spotlight*
 ---
 
