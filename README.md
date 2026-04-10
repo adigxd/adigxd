@@ -4,7 +4,7 @@
 ---
 
 <a href="https://github.com/adigxd/r">
-  <img src="https://raw.githubusercontent.com/adigxd/adigxd/main/DIR-Resources/IMG-Spotlight-20260408.png"/>
+  <img src="https://raw.githubusercontent.com/adigxd/adigxd/main/DIR-Resources/IMG-Banner-20260408.png"/>
 </a>
 
 <br/>
