@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/gen%20ai%20᛫-80B0C0?style=for-the-badge"/></a><a href="https://github.com/adigxd/s"><img src="https://img.shields.io/badge/-s-90C0D0?style=for-the-badge"/></a><a href="https://github.com/adigxd/WinGPT"><img src="https://img.shields.io/badge/-wingpt-A0D0E0?style=for-the-badge"/></a><a href="https://github.com/adigxd/CareerTree-py"><img src="https://img.shields.io/badge/-careertree-B0E0F0?style=for-the-badge"/></a>
 
-<img src="https://img.shields.io/badge/util%20᛫-C0B080?style=for-the-badge"/><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-D0C090?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-E0D0A0?style=for-the-badge"/></a><a href="https://github.com/adigxd/script"><img src="https://img.shields.io/badge/-script-F0E0B0?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/util%20᛫-C0B040?style=for-the-badge"/><a href="https://github.com/adigxd/g"><img src="https://img.shields.io/badge/-g-D0C050?style=for-the-badge"/></a><a href="https://github.com/adigxd/d"><img src="https://img.shields.io/badge/-d-E0D060?style=for-the-badge"/></a><a href="https://github.com/adigxd/script"><img src="https://img.shields.io/badge/-script-F0E070?style=for-the-badge"/></a>
 
 <br/>
 
