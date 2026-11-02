@@ -3,8 +3,8 @@
 *Spotlight*
 ---
 
-<a href="https://zday.vercel.app">
-  <img src="https://raw.githubusercontent.com/adigxd/adigxd/main/DIR-Resources/IMG-Banner-20260630.png"/>
+<a href="https://github.com/adigxd/r/">
+  <img src="https://raw.githubusercontent.com/adigxd/adigxd/blob/main/DIR-Resources/IMG-Banner-20260408.png"/>
 </a>
 
 <br/>
